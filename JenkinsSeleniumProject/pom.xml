@@ -26,6 +26,7 @@
         	 <skipTests>false</skipTests>
         	 <testFailureIgnore>true</testFailureIgnore>
         	 <forkMode>once</forkMode>
+        	 <Scope>compile</Scope>
         	</configuration>          
         </configuration>
       </plugin>
